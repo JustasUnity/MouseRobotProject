@@ -16,10 +16,10 @@ namespace CustomNamespace
         public override void HideProperties(ref DynamicTypeDescriptor dt)
         {
             dt.Properties.Clear();
-            AddProperty(dt, "CommandType"); 
+            AddProperty(dt, "CommandType");
             AddProperty(dt, "SomeInt");
         }
-        /*
+
         [SortedCategory("Command Properties", CommandPropertiesCategoryPosition, NumOfCategories)]
         [DefaultValue(5)]
         [DisplayName("Some Int")]
@@ -27,6 +27,6 @@ namespace CustomNamespace
         {
             get { return (Command as CustomCommand).SomeInt; }
             set { (Command as CustomCommand).SomeInt = value; }
-        }*/
+        }
     }
 }

@@ -3,7 +3,7 @@ LightScript:
   <Name>k__BackingField: working car
   CommandForImage: 
     <Guid>k__BackingField: 66dd623a-bc90-41ec-9dbe-6f65a39b11aa
-    <Asset>k__BackingField: 0a49a6d3-2a8e-4e55-90c5-3bda580e5ff3
+    <Asset>k__BackingField: afe1aa3f-1889-4955-a9bf-92642c190795
     <Timeout>k__BackingField: 2000
     CommandDown: 
       <Guid>k__BackingField: b850e2ec-8bdb-452b-9b30-e4bc6973875f
