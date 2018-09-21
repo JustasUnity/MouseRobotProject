@@ -1,0 +1,12 @@
+LightScript: 
+  <Guid>k__BackingField: a8ee856f-a5a8-48ce-ae97-602490a4b689
+  <Name>k__BackingField: New Script
+  CommandSleep: 
+    <Guid>k__BackingField: 1c5db887-9bb7-4145-be19-156bedde7b28
+    <Time>k__BackingField: 800
+  HackCommand: 
+    <Guid>k__BackingField: a7de8e5d-018d-4496-85ff-99b488f40b34
+    <PathToDll>k__BackingField: 
+    <Namespace>k__BackingField: Namespace1
+    <ClassName>k__BackingField: Class1
+    <MethodName>k__BackingField: Method1

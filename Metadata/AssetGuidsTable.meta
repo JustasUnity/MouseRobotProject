@@ -16,3 +16,5 @@ d9845969-d045-4e78-816f-38c9abc8f39e: Plugins\CustomCommandRunner.cs
 c9621e57-3721-496e-b36a-8e22e0acd253: Tests\image.mrt
 21b4aecf-81cf-4f3b-810d-f898edfe3546: Tests\test.mrt
 71440ec1-47ea-4343-9e14-4169258e3aa0: Tests\test2.mrt
+8c3f1f37-9a85-460e-9e21-8fc0c613ce6f: Tests\PRESS F1 TO STOP TEST RUN.mrt
+39848f01-e39c-4819-9ec1-2262bb894773: Scripts\SleepAndHack.mrb

@@ -1,0 +1,33 @@
+LightTestFixture: 
+  <Guid>k__BackingField: 958f36fd-1acf-47a2-87e8-5f9ae80b18d6
+  <Name>k__BackingField: PRESS F1 TO STOP TEST RUN
+  LightScript: 
+    <Guid>k__BackingField: b03986a1-1cd3-4d1e-9413-edfc0278e23f
+    <Name>k__BackingField: Setup
+  LightScript: 
+    <Guid>k__BackingField: 015ecff2-e768-4687-8ea8-2b23ba38d8ab
+    <Name>k__BackingField: TearDown
+  LightScript: 
+    <Guid>k__BackingField: d1881bfb-8fc0-4332-8f24-5aed19ea1a70
+    <Name>k__BackingField: OneTimeSetup
+  LightScript: 
+    <Guid>k__BackingField: 7737b93f-85b8-4dc8-9a97-dfd63447f730
+    <Name>k__BackingField: OneTimeTeardown
+  LightScript: 
+    <Guid>k__BackingField: ec67a031-3c14-4927-8c04-fe6201b222c3
+    <Name>k__BackingField: Test Unity Random Actions (Script)
+    CommandRunScript: 
+      <Guid>k__BackingField: 05b3f9d2-0351-4515-b55f-61c984655b0f
+      <Asset>k__BackingField: 39848f01-e39c-4819-9ec1-2262bb894773
+  LightScript: 
+    <Guid>k__BackingField: 4c3b2889-a0d4-4488-b913-0c33f4527d37
+    <Name>k__BackingField: Test Unity Random Actions
+    CommandSleep: 
+      <Guid>k__BackingField: 12083399-c127-49dd-8957-1edd6e0ffffe
+      <Time>k__BackingField: 800
+    HackCommand: 
+      <Guid>k__BackingField: cb2f0b19-bdd2-4fac-90d4-7baab9c7bda7
+      <PathToDll>k__BackingField: 
+      <Namespace>k__BackingField: Namespace1
+      <ClassName>k__BackingField: Class1
+      <MethodName>k__BackingField: Method1
